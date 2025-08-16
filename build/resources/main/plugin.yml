@@ -1,0 +1,7 @@
+name: Two-Baegadwae
+version: 1.0.0
+main: plugin23.untitled28.Main
+description: 블럭을 캤을 때 2배를 드랍시키는 플러그인입니다.
+author: SpigotMC
+website: https://www.spigotmc.org/
+api-version: '1.21.8'
